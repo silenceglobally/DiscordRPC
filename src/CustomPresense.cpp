@@ -3,7 +3,7 @@
 
 using namespace geode::prelude;
 
-static const char* APPLICATION_ID = "1361159747960836196";
+static const char* APPLICATION_ID = "1372762525568991263";
 time_t currentTime = time(0);
 
 bool isIdling = false;
