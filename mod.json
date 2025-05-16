@@ -1,7 +1,7 @@
 {
-	"geode": "4.4.0",
-	"version": "v1",
-	"id": "agathx.discord_rich_presence",
+	"geode": "4.0.1",
+	"version": "v1.0.0",
+	"id": "void.discord_rich_presence",
 	"name": "Void GDPS Discord Rich Presence",
 	"developer": "silenceglobally",
 	"description": "A Discord Rich Presence mod for Void GDPS",
