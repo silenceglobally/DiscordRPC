@@ -123,7 +123,7 @@ void gdrpc::GDRPC::updateDiscordRP(
 	static std::string sensitiveStr;
 	sensitiveStr = fmt::format("{} (playing on {})", gm->m_playerName, GEODE_PLATFORM_NAME);
 	static std::string notSensitiveStr;
-	notSensitiveStr = fmt::format("Playing Geometry Dash on {}", GEODE_PLATFORM_NAME);
+	notSensitiveStr = fmt::format("Playing Void GDPS on {}", GEODE_PLATFORM_NAME);
 	if (shouldShowSensitive) {
 		discordPresence.largeImageText = sensitiveStr.c_str();
 	} else {
